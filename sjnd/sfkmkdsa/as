@@ -1,0 +1,4 @@
+[1] Introduction | 1.1. Our contribution # 1.2. Related work
+[2] Our method | Multi-probe querying # Hierarchical partitions # Neural LSH with soft labels
+[3] Sparse hyperplane-induced cuts in k-NN graphs
+[4] Experiments | 4.1.Implementation details # 4.2 Comparison with multi-bin methods # 4.3 Comparison with tree-based methods # 4.4. Additional experiments
